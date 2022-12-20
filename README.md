@@ -1,7 +1,8 @@
 ## Hello! I'm Diego Xavier
 - 📚 Student
-- ⚙ Learning CSS and HTML
-- 👀 Interested in Web development
+- ⚙ Learning JavaScript
+- ✒ HTML | CSS
+- 👀 Interested in Web/mobile development
 
 <div align="center">
   <a href="https://github.com/DmlXavier">
